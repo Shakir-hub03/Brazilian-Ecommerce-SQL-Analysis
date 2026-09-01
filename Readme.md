@@ -302,7 +302,7 @@ Geographic decisions should consider total revenue, customer count, orders, AOV 
 Brazilian-Ecommerce-SQL-Analysis/
 │
 ├── SQL Queries/
-│   ├── 01_Data_Quality.sql
+│   ├── 01_Data_Quality.SQL
 │   ├── 02_KPI_Analysis.sql
 │   ├── 03_Customer_Analysis.sql
 │   ├── 04_Product_Analysis.sql
@@ -311,13 +311,13 @@ Brazilian-Ecommerce-SQL-Analysis/
 │   └── 07_Pareto_Analysis.sql
 │
 ├── Reports/
-│   ├── 01_Executive_Dashboard.xlsx
-│   ├── 02_Customer_Report.xlsx
-│   ├── 03_Product_Report.xlsx
-│   ├── 04_City_Report.xlsx
-│   └── 05_Pareto_Report.xlsx
+│   ├── 01_OLIST E-COMMERCE BUSINESS DASHBOARD.xlsx
+│   ├── 02_Customer Report.xlsx
+│   ├── 03_Products Report.xlsx
+│   ├── 04_City Report.xlsx
+│   └── 05_Pareto Report.xlsx
 │
-└── README.md
+└── Readme.md
 ```
 
 ---
